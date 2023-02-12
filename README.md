@@ -18,7 +18,7 @@ An educational platform (Website) to help people learn about space hazards in a 
 
 > **Nasa Space Apps Awards**
 - People's Choice Award Nominee.
-- First place in our challenge.
+- Second place in our challenge panel, Egypt section.
 
 > In the **Info** section
 - You'll be able to find well summarzied information about space hazards and how different organisms respond to them.
@@ -52,3 +52,9 @@ Project created by team ASME Flares:
 - Michael Hany
 - Ahmed Elsarta
 - Neveen Mohamed
+
+## Submitted to:
+
+- NASA Space Apps
+
+All rights reserved © 2022 to ASME Flares Team - Systems & Biomedical Engineering, Cairo University
